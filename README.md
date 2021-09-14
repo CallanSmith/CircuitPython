@@ -58,7 +58,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ## CircuitPython_Servo
 
 ### Description & Code
-
+The first code named servo is just to get the servo to work, the second is touching the wire code, to be able to touch the wire and have it spin either way.
 ```python
 
 
