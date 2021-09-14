@@ -13,17 +13,9 @@
 
 ### Description & Code
 Description goes here
-
-Here's how you make code look like code:
+This is how you make the light turn different colors, each set of 3 numbers is a different color and time.sleep is how long the colors stay there.
 
 ```python
-import board
-import neopixel
-import time
-
-dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
-
-print("Make it red!")
 
 while True:
     dot.fill((255,0,0))
@@ -51,31 +43,20 @@ Then post an image here.   [here's a quick tutorial for all markdown code, like 
 
 ### Reflection
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
-
+Nothing went wrong
 
 
 
 ## CircuitPython_Servo
 
 ### Description & Code
-The first code named servo is just to get the servo to work, the second is touching the wire code, to be able to touch the wire and have it spin either way.
+This is the meat of the code, it makes each wire a button and tells it which analog pin it is going into, it then prints "Touched the () wire" when that wire is touched.it then turns the servo one way or another which it -/+ 5
+
 ```python
-import time
-import board
-import pulseio
-import touchio
-import servo
 
-
-# create a PWMOut object on Pin A2.
-pwm = pulseio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
-
-# Create a servo object, my_servo.
-my_servo = servo.Servo(pwm)
-
-touch_pad1 = board.A0  # Will not work for Circuit Playground Express!
+touch_pad1 = board.A0  
 touch1 = touchio.TouchIn(touch_pad1)
-touch_pad2 = board.A5  # Will not work for Circuit Playground Express!
+touch_pad2 = board.A5  
 touch2 = touchio.TouchIn(touch_pad2)
 
 while True:
