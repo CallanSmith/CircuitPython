@@ -95,9 +95,9 @@ while True:
 
 ```
 
-### Evidence
+### Wiring
 
-### Images
+### Evidence
 
 ### Reflection
 
