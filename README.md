@@ -96,6 +96,7 @@ while True:
 ```
 
 ### Wiring
+![Servobuttonnotbubtton](https://user-images.githubusercontent.com/71345149/133275633-226c20bf-d4d8-499f-a087-d0a5f6395d1a.png)
 
 ### Evidence
 
