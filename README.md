@@ -17,7 +17,27 @@ Description goes here
 Here's how you make code look like code:
 
 ```python
-Code goes here
+import board
+import neopixel
+import time
+
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+
+print("Make it red!")
+
+while True:
+    dot.fill((255,0,0))
+    time.sleep(0.5)
+    dot.fill((255,255,0))
+    time.sleep(0.5)
+    dot.fill((0,255,0))
+    time.sleep(0.5)
+    dot.fill((0,255,255))
+    time.sleep(0.5)
+    dot.fill((0,0,255))
+    time.sleep(0.5)
+    dot.fill((255,0,255))
+    time.sleep(0.5)
 
 ```
 
@@ -40,7 +60,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ### Description & Code
 
 ```python
-Code goes here
+
 
 ```
 
@@ -86,3 +106,4 @@ Code goes here
 ### Images
 
 ### Reflection
+ 
