@@ -83,7 +83,7 @@ while True:
 ### Evidence
 <img src="IMG_3805.MOV" alt="Servobuttonnotbuttonvideo" width="450">
 ### Reflection
-
+This assingment taught me a lot about how to use circuit python, I learned how to use touch values and how to use the servo with circuit python
 
 
 
