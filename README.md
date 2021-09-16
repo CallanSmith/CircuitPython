@@ -12,7 +12,7 @@
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+
 This is how you make the light turn different colors, each set of 3 numbers is a different color and time.sleep is how long the colors stay there.
 
 ```python
@@ -82,6 +82,7 @@ while True:
 
 ### Evidence
 <img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
+
 ### Reflection
 This assingment taught me a lot about how to use circuit python, I learned how to use touch values and how to use the servo with circuit python
 
