@@ -78,7 +78,7 @@ while True:
 
 ### Wiring
 
-<img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/Servobuttonnotbubtton.png?raw=true" alt="Servobuttonnotbubtton" width="450">
+<img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
 
 ### Evidence
 <img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
