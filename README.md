@@ -118,7 +118,7 @@ Code goes here
 
 ### Evidence
 
-<img src="https://user-images.githubusercontent.com/71345149/134183945-a39bb590-e1c8-4516-a7cd-ae3460b9da32.mov" width="450">
+<img src="" width="450">
 
 ### Images
 
