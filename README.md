@@ -117,8 +117,8 @@ Code goes here
 ```
 
 ### Evidence
-
-<img src="ezgif.com-gif-maker.gif" alt"DistanceSesnorEvidence" width="450">
+<img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
+<img src="ezgif.com-gif-maker.gif" alt="DistanceSesnorEvidence" width="450">
 
 ### Images
 
