@@ -110,9 +110,25 @@ Code goes here
 ## CircuitPython_DistanceSensor
 
 ### Description & Code
+This is the main two parts of the distance sensor code. The first part is using a function to have light on board fade and change colors. Since the math would be confusing if I used a function for the 20-35 part the better option was to use a map. That is the second part of the code mapping blue to green.
 
 ```python
-Code goes here
+  if distance < 5:
+            print("red")
+            dot.fill((255, 0, 0))
+        elif distance <= 20:
+            r = 255-((distance-5)/15*255)
+            g = 0
+            b = (distance-5)/15*255
+            dot.fill((int(r), int(g), int(b)))
+        else:
+            # Had two else statements which isn't allowed,
+            # had unnecesary funciton which conjumbled code
+            # didnt have necesary library for mapped function
+            r = 0
+            g = simpleio.map_range(distance, 20, 35, 0, 255)  #had two things saying the same thins which made my code a mess
+            b = simpleio.map_range(distance, 20, 35, 255, 0)
+            dot.fill((int(r), int(g), int(b)))
 
 ```
 
@@ -120,7 +136,7 @@ Code goes here
 
 <img src="ezgif.com-gif-maker.gif" alt="DistanceSesnorEvidence" width="450">
 
-### Images
+### Wiring
 
 ### Reflection
- 
+ This project taught how to use a function and how to map which will be important in the future. I struggled when figuring out the map because I had two functions and was saying the same things twice.
