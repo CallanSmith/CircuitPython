@@ -165,7 +165,7 @@ while True:
 ```
 [Link to code I used](https://github.com/gventre04/CircuitPython#photo-interrupter)
 ### Evidence
-<img src="Distance sesnor wiring.png" alt="DistanceSesnorEvidence" width="450">
+<img src="ezgif.com-gif-maker (1).gif" width="450">
 ### Wiring
 
 ### Reflection
