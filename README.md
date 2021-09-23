@@ -166,6 +166,7 @@ while True:
 [Link to code I used](https://github.com/gventre04/CircuitPython#photo-interrupter)
 ### Evidence
 <img src="ezgif.com-gif-maker (1).gif" width="450">
+
 ### Wiring
 
 ### Reflection
