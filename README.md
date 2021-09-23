@@ -138,5 +138,22 @@ This is the main two parts of the distance sensor code. The first part is using 
 
 ### Wiring
 <img src="Distance sesnor wiring.png" alt="DistanceSesnorEvidence" width="450">
+
 ### Reflection
  This project taught how to use a function and how to map which will be important in the future. I struggled when figuring out the map because I had two functions and was saying the same things twice.
+ 
+ ## CircuitPython_Photo_Interuptor
+ 
+ ### Description & Code
+
+```python
+
+
+```
+
+### Evidence
+
+### Wiring
+
+### Reflection
+ 
