@@ -168,6 +168,7 @@ while True:
 <img src="ezgif.com-gif-maker (1).gif" width="450">
 
 ### Wiring
+<img src="IMG-3864.jpg" width="450">
 
 ### Reflection
- 
+ This assingments wiring was very simple and the code was't to bad, I just had to swtich time to time.monotonic
