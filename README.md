@@ -145,9 +145,22 @@ This is the main two parts of the distance sensor code. The first part is using 
  ## CircuitPython_Photo_Interuptor
  
  ### Description & Code
-
+This assingment was to use a photointeruptor to count the amount of times something was in it and print that to serial monitor.
 ```python
+max = 4
+start = time.monotonic()
+while True:
+    photo = interrupter.value
+    if photo and not state:
+            counter += 1
+    state = photo
 
+    remaining = max - time.monotonic()
+
+    if remaining <= 0:
+        print("Interrupts:", str(counter))
+        max = time.monotonic() + 4
+        counter = 0
 
 ```
 [Link to code I used](https://github.com/gventre04/CircuitPython#photo-interrupter)
