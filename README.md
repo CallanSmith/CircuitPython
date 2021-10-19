@@ -179,7 +179,7 @@ while True:
  This was the first part of the skateboard design and it was very easy to complete
 
 ### Evidence
- <img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
+ <img src="Deck.png" alt="Deck" width="450">
  
  ### Reflection
 
@@ -188,7 +188,7 @@ while True:
 ### Description
  
  ### Evidence
- <img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
+ <img src="Trucks.png" alt="Trucks" width="450">
  
  ### Reflection
  
@@ -197,7 +197,7 @@ while True:
 ### Description
  
  ### Evidence
- <img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
+ <img src="Wheelsandbearings.png" alt="Wheelsandbearings" width="450">
  
  ### Reflection
  
@@ -206,7 +206,7 @@ while True:
  ### Description
  
  ### Evidence
- <img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
+ <img src="Puttingitalltogether.png" alt="Assembly" width="450">
  
  ### Reflection
  
@@ -215,7 +215,7 @@ while True:
 ### Description
  
  ### Evidence
- <img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
+ <img src="LetsShred.png" alt="LetsShred" width="450">
  
  ### Reflection
  
