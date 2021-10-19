@@ -172,3 +172,51 @@ while True:
 
 ### Reflection
  This assingments wiring was very simple and the code was't to bad, I just had to swtich time to time.monotonic
+ 
+ ## 2.1 Designing the deck
+
+### Description
+ This was the first part of the skateboard design and it was very easy to complete
+ ### Evidence
+ 
+ ### Reflection
+
+ ## 2.2 Designing the Trucks
+
+### Description
+ 
+ ### Evidence
+ 
+ ### Reflection
+ 
+ ## 2.3 Designing the Wheels and bearings
+
+### Description
+ 
+ ### Evidence
+ 
+ ### Reflection
+ 
+ ## 2.4 Assembly
+ 
+ ### Description
+ 
+ ### Evidence
+ 
+ ### Reflection
+ 
+ ## 2.5 Lets Shred
+
+### Description
+ 
+ ### Evidence
+ 
+ ### Reflection
+ 
+ ## 2.1 Designing the deck
+
+### Description
+ 
+ ### Evidence
+ 
+ ### Reflection
