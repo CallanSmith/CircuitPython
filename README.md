@@ -227,11 +227,31 @@ This was the second assingment, this was much harder.
  ### Reflection
  This assingment taught me how to bend flat objects.
  
- ## 2.1 Designing the deck
+ 
+ 
+ 
+ ## 3.2 One brick to rule them all
  
 
 ### Description
+ The assingmet was to build use configurations to make the simple brick changlable into different shapes, rows/coloumns, and colors.
+
+### Evidence
  
- ### Evidence
+ <img src="3.2.png" alt="BrickConfig" width="450">
  
  ### Reflection
+This assingmet taught me how to use configurations
+
+ ## 3.1 How the pros do it.
+ 
+
+### Description
+ The assingmet was to build a simple 2x4 Lego brick using varaibales.
+
+### Evidence
+ 
+ <img src="3.1.png" alt="Assembly" width="450">
+ 
+ ### Reflection
+ This assingment taught me how to use a linear pattern
