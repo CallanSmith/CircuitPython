@@ -255,3 +255,16 @@ This assingmet taught me how to use configurations
  
  ### Reflection
  This assingment taught me how to use a linear pattern
+ 
+  ## 3.3 Putting it all toghether.
+ 
+
+### Description
+This assingment was to build some of the bricks together to make a bad lego duck
+
+### Evidence
+ <img src="3.3.png" alt="Duck" width="450">
+ 
+ ### Reflection
+ This assingment taught me how to use the snap tool which I thinkk willl be very usefull in the future
+
