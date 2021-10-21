@@ -268,3 +268,15 @@ This assingment was to build some of the bricks together to make a bad lego duck
  ### Reflection
  This assingment taught me how to use the snap tool which I thinkk willl be very usefull in the future
 
+## 3.4 Drawing
+ 
+
+### Description
+This assingment was to make a detailed drawing of the duck assembly.
+
+### Evidence
+ <img src="3.4.png" alt="Drawing" width="450">
+ 
+ ### Reflection
+ This assingment taught me how make a drawing and explode which will both be helpfull in the future.
+
