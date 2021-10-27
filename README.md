@@ -13,7 +13,7 @@
 
 ### Description & Code
 
-This is how you make the light turn different colors, each set of 3 numbers is a different color and time.sleep is how long the colors stay there.
+This assingment was to change the led of the metro board to different colors using dot.fill.
 
 ```python
 
@@ -32,20 +32,24 @@ while True:
     time.sleep(0.5)
 
 ```
-
+The dot.fill code is what changes the color of the board, the values after are the specific color, and the time.sleep is the time inbetween the changing colors.
 
 ### Evidence
-Pictures / Gifs of your work should go here
 
-### Images
-Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://www.markdownguide.org/basic-syntax/)
+<img src="Blinkingboard.gif" alt="BlinkingBoard" width="450">
+This image shows the led in the board changing colors.
+
+[Credit to Quinn Ragsdale](https://github.com/qragsda80/CircuitPython1#evidence)
+
+### Wiring
+
+No Wiring for this assingment as it was just the board.
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
-Nothing went wrong
 
-
+The hard part about this assingment was figuring out the different RGQ values of the colors. I was able to find the values  on this  
+[Website](https://www.w3schools.com/colors/colors_picker.asp)
+This website gives all of the values you need for every specific color.
 
 ## CircuitPython_Servo
 
@@ -78,7 +82,7 @@ while True:
 
 ### Wiring
 
-<img src="Wiringservo.png" alt="Servobuttonnotbubtton" width="450">
+Blinkingboard.gif
 
 ### Evidence
 <img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
