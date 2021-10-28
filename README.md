@@ -6,11 +6,6 @@
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_Distance Sesnor](#CircuitPython_DistanceSensor)
 * [Circuit Python Photo interuptor](#CircuitPython_Photo_Interuptor)
-* [2.1-2.5](#2.1-2.5 Skateboard)
-* [3.1](#3.1 How the pros do it)
-* [3.2](#3.2 One brick to rule them all)
-* [3.2](#3.3 Putting it all toghether.)
-* [3.2](#3.4 Drawing)
 ---
 
 ## Hello_CircuitPython
