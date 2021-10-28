@@ -47,7 +47,7 @@ No Wiring for this assingment as it was just the board.
 
 ### Reflection
 
-The hard part about this assingment was figuring out the different RGQ values of the colors. I was able to find the values  on this  
+The hard part about this assingment was figuring out the different RGB values of the colors. I was able to find the values  on this  
 [Website](https://www.w3schools.com/colors/colors_picker.asp)
 This website gives all of the values you need for every specific color.
 
