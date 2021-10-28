@@ -84,9 +84,12 @@ This is the meat of the code, it makes each wire a button and tells it which ana
 
 ### Wiring
 
-Blinkingboard.gif
+<img src="QuinnServoWiring.png" width="450">
 
-There is no servo
+[Credit to Quinn Ragsdale](https://github.com/qragsda80/CircuitPython1#evidence)
+
+The two loose wires in this code stemming from A0 and A5 represent the two wires used for capacitive touch, there is also only 3 wires going to the servo in this wiring diagram but the servos we use require 4.
+
 ### Evidence
 <img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
 
