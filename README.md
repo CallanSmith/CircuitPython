@@ -106,7 +106,8 @@ The part  of this assingment that I struggled with was figuring out how to use c
 ## CircuitPython_DistanceSensor
 
 ### Description & Code
-This is the main two parts of the distance sensor code. The first part is using a function to have light on board fade and change colors. Since the math would be confusing if I used a function for the 20-35 part the better option was to use a map. That is the second part of the code mapping blue to green.
+
+This assingment was to code a distance sensor to change the colors of the led on the Metro board based off of how far away an object is.
 
 ```python
   if distance < 5:
@@ -128,12 +129,19 @@ This is the main two parts of the distance sensor code. The first part is using 
 
 ```
 
+This is the main two parts of the distance sensor code. The first part is using a function to have light on board fade and change colors. Since the math would be confusing if I used a function going from 20-35, the better option was to use a map. That is the second part of the code mapping blue to green.
+
 ### Evidence
 
 <img src="ezgif.com-gif-maker.gif" alt="DistanceSesnorEvidence" width="450">
 
+This Gif shows my phone as the object going father away from the distance sesnor, and the distance sesnor changing the colors of the led on hte board as a result of that.
+
 ### Wiring
+
 <img src="Distance sesnor wiring.png" alt="DistanceSesnorEvidence" width="450">
+
+
 
 ### Reflection
  This project taught how to use a function and how to map which will be important in the future. I struggled when figuring out the map because I had two functions and was saying the same things twice.
