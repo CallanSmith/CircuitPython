@@ -196,57 +196,23 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
  This was the first part of the skateboard design and it was very easy to complete
 
 ### Evidence
-  Deck <img src="Deck.png" alt="Deck" width="450">
+
+Deck <img src="Deck.png" alt="Deck" width="450">
+
 Trucks  <img src="Trucks.png" alt="Trucks" width="450">
- Wheels and bearings <img src="Wheelsandbearings.png" alt="Wheelsandbearings" width="450">
+
+Wheels and bearings <img src="Wheelsandbearings.png" alt="Wheelsandbearings" width="450">
+
 Assembly <img src="Puttingitalltogether.png" alt="Assembly" width="450">
-Let It shred  <img src="LetsShred.png" alt="LetsShred" width="450">
+
+Let It shred (Bend the Board and inscribe Logo)  <img src="LetsShred.png" alt="LetsShred" width="450">
  
 ### Reflection
-This assingment was a good start but didnt teach me much.
+The part I struggled the most on when designing the skateboard was the wheels and bearings. When I would deimensions the starting shape to be revolved it would go below the centerline you draw first. This messes up the revolve so to fix this make sure your whole shape is above the centerline before revolving.
 
- ## 2.2 Designing the Trucks
 
-### Description
-This was the second assingment, this was much harder. 
- ### Evidence
- <img src="Trucks.png" alt="Trucks" width="450">
  
- ### Reflection
- This assingment taught me a lot of things, including how to add new parts to one part studio
- 
- ## 2.3 Designing the Wheels and bearings
 
-### Description
- This assingment was easier and simple.
- 
- ### Evidence
- <img src="Wheelsandbearings.png" alt="Wheelsandbearings" width="450">
- 
- ### Reflection
- This assingment reminded me how to revolve correctly.
- 
- ## 2.4 Assembly
- 
- ### Description
- This was challnging and tedious but was made easier by things it taught me 
- 
- ### Evidence
- <img src="Puttingitalltogether.png" alt="Assembly" width="450">
- 
- ### Reflection
- This assingment taught me how to replicate screws and bolts I put in 
- 
- ## 2.5 Lets Shred
-
-### Description
- For this assingment I chose bending the board and inscribing a logo.
- 
- ### Evidence
- <img src="LetsShred.png" alt="LetsShred" width="450">
- 
- ### Reflection
- This assingment taught me how to bend flat objects.
  
  
  
