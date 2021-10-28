@@ -54,7 +54,8 @@ This website gives all of the values you need for every specific color.
 ## CircuitPython_Servo
 
 ### Description & Code
-This is the meat of the code, it makes each wire a button and tells it which analog pin it is going into, it then prints "Touched the () wire" when that wire is touched.it then turns the servo one way or another which it -/+ 5
+
+This assingment was to use capacitive touch to change the direction of a turning servo.
 
 ```python
 
@@ -79,6 +80,7 @@ while True:
     print("end of loop!")
 
 ```
+This is the meat of the code, it makes each wire a button and tells it which analog pin it is going into, it then prints "Touched the () wire" when that wire is touched.it then turns the servo one way or another which it -/+ 5
 
 ### Wiring
 
@@ -87,9 +89,11 @@ Blinkingboard.gif
 ### Evidence
 <img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
 
-### Reflection
-This assingment taught me a lot about how to use circuit python, I learned how to use touch values and how to use the servo with circuit python
+This GIF shows the servo turning different directions when a different wire is toucheed. In this video it is a little confusing because I accedintaly touch two wires at once causing it to turn around prematurely.
 
+### Reflection
+
+The part  of this assingment that I struggled with was figuring out how to use capacitive touch. The key to capacitive touch is the touch1.value
 
 
 ## CircuitPython_LCD
