@@ -188,17 +188,21 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
 
 ### Reflection
  
- 
- 
- ## 2.1 Designing the deck
+ I could not figure out why the [Gventre04](https://github.com/gventre04/CircuitPython#photo-interrupter) code was not working. The problem is they used time.time whic does not work with the most updtaed version of Mu. Instead you have to use time.monotonic for the code to work.
+
+ ## 2.1-2.5 Skateboard
 
 ### Description
  This was the first part of the skateboard design and it was very easy to complete
 
 ### Evidence
- <img src="Deck.png" alt="Deck" width="450">
+  Deck <img src="Deck.png" alt="Deck" width="450">
+Trucks  <img src="Trucks.png" alt="Trucks" width="450">
+ Wheels and bearings <img src="Wheelsandbearings.png" alt="Wheelsandbearings" width="450">
+Assembly <img src="Puttingitalltogether.png" alt="Assembly" width="450">
+Let It shred  <img src="LetsShred.png" alt="LetsShred" width="450">
  
- ### Reflection
+### Reflection
 This assingment was a good start but didnt teach me much.
 
  ## 2.2 Designing the Trucks
