@@ -86,6 +86,7 @@ This is the meat of the code, it makes each wire a button and tells it which ana
 
 Blinkingboard.gif
 
+There is no servo
 ### Evidence
 <img src="https://github.com/CallanSmith/CircuitPython/blob/main/Media/ServoGif.gif?raw=true" width="450">
 
@@ -93,23 +94,7 @@ This GIF shows the servo turning different directions when a different wire is t
 
 ### Reflection
 
-The part  of this assingment that I struggled with was figuring out how to use capacitive touch. The key to capacitive touch is the touch1.value
-
-
-## CircuitPython_LCD
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Images
-
-### Reflection
+The part  of this assingment that I struggled with was figuring out how to use capacitive touch. The key to capacitive touch is the touch1.value and using the library touchio. Once you have touch value set up you just have to set the angle range and direction using "for angle in range(0, 180, 5)" Switch 5 to -5 to turn other way
 
 
 
