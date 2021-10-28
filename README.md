@@ -135,21 +135,25 @@ This is the main two parts of the distance sensor code. The first part is using 
 
 <img src="ezgif.com-gif-maker.gif" alt="DistanceSesnorEvidence" width="450">
 
-This Gif shows my phone as the object going father away from the distance sesnor, and the distance sesnor changing the colors of the led on hte board as a result of that.
+This Gif shows a breadboard as the object going father away and closer from the distance sesnor, and the distance sesnor changing the colors of the led on the board as a result of that.
 
 ### Wiring
 
 <img src="Distance sesnor wiring.png" alt="DistanceSesnorEvidence" width="450">
 
+This wiring is innacurate because the ditance sensor in this diagram only has 3 connecting wires, whereas the distance sesnor I used has 4 wires.
 
 
 ### Reflection
- This project taught how to use a function and how to map which will be important in the future. I struggled when figuring out the map because I had two functions and was saying the same things twice.
+ 
+I struggled with making the map function. I learned that you need to you have to create a map_range useing simpleio. You then have to set your values to map Ex: (distance, 20, 35, 0, 255). At first I did'nt have the simpleio library which is why it wasn't working. Here is link to  
+[library](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO)
  
  ## CircuitPython_Photo_Interuptor
  
  ### Description & Code
-This assingment was to use a photointeruptor to count the amount of times something was in it and print that to serial monitor.
+This assingment was to use a photointeruptor to count the amount of times an object passed through the photointeruprto and print that to serial monitor.
+
 ```python
 max = 4
 start = time.monotonic()
@@ -167,15 +171,24 @@ while True:
         counter = 0
 
 ```
-[Link to code I used](https://github.com/gventre04/CircuitPython#photo-interrupter)
+
+This is all of the code that uses time.monotonic() to start the photointerruptor, and use a counter to add 1 every time an object passes through it.
+
+[Link to code I used, Credit to Gventre04](https://github.com/gventre04/CircuitPython#photo-interrupter)
+
 ### Evidence
 <img src="ezgif.com-gif-maker (1).gif" width="450">
+
+This video shows an object passing through the photo interruptor, adding one to the serial monitor every time it does that.
 
 ### Wiring
 <img src="IMG-3864.jpg" width="450">
 
+This is an actual picture of the wiring I used. The electric tape is to prevent the two prongs of the photointerruptor from touching eachother.
+
 ### Reflection
- This assingments wiring was very simple and the code was't to bad, I just had to swtich time to time.monotonic
+ 
+ 
  
  ## 2.1 Designing the deck
 
