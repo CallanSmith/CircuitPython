@@ -214,7 +214,8 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
             lcd.set_cursor_pos(1, 0)
             lcd.print("SwitchState:DOWN") #Printing to the lcd the state of the switch
             callanGotIt = -1
-'''
+```
+
 ### Evidence
 
 ### Wiring
