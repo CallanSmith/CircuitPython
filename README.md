@@ -218,6 +218,8 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
 
 ### Evidence
 
+<img src="IMG-4895.jpg" width="450">
+
 ### Wiring
 
 ### Reflection
