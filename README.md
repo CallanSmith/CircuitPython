@@ -193,6 +193,28 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
 
 ### Description and Code
 
+'''python
+if button1 and not oldButton1: #If Button 1 is pressed, and has been "unpressed"
+        print("pressed!")
+        count += callanGotIt # Varaiable representing 1
+        lcd.set_cursor_pos(0,11) #Starting in the very first position
+        lcd.print(str(count)) #Printing the number of presses to the lcd
+        lcd.print("  ")   #Formatting to make the lcd printing and spacing look right
+        
+
+    if button2 and not oldButton2:
+        switch = not switch # allows to turn button into switch
+        print("switch") #Let me know on the serial monitor that the switch button has been pressed
+        
+        if switch:
+            lcd.set_cursor_pos(1,0) # If "Switch" is on, print going up
+            lcd.print("SwitchState:UP  ") #Printing to the lcd the state of the switch
+            callanGotIt = 1
+        else: # If "Switch" is off, print going down
+            lcd.set_cursor_pos(1, 0)
+            lcd.print("SwitchState:DOWN") #Printing to the lcd the state of the switch
+            callanGotIt = -1
+'''
 ### Evidence
 
 ### Wiring
