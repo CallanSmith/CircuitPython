@@ -189,6 +189,16 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
  
  I could not figure out why the [Gventre04](https://github.com/gventre04/CircuitPython#photo-interrupter) code was not working. The problem is they used time.time whic does not work with the most updtaed version of Mu. Instead you have to use time.monotonic for the code to work.
 
+## LCD "Switch"
+
+### Description and Code
+
+### Evidence
+
+### Wiring
+
+### Reflection
+
  ## 2.1-2.5 Skateboard
 
 ### Description
