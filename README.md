@@ -193,9 +193,9 @@ This is an actual picture of the wiring I used. The electric tape is to prevent 
 
 ### Description and Code
 
-'''python
 
-if button1 and not oldButton1: #If Button 1 is pressed, and has been "unpressed"
+```python
+    if button1 and not oldButton1: #If Button 1 is pressed, and has been "unpressed"
         print("pressed!")
         count += callanGotIt # Varaiable representing 1
         lcd.set_cursor_pos(0,11) #Starting in the very first position
